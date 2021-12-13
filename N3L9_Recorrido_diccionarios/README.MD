@@ -33,7 +33,7 @@ Maria
 **Ejemplo 2**
 ```python 
 for cada_elemento in directorio.keys():
-    print(cada_elemento, ”->”, directorio[cada_elemento])
+    print(cada_elemento, "->", directorio[cada_elemento])
 ```
 
 *Salida*
