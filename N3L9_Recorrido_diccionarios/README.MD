@@ -38,6 +38,8 @@ Ana
 Maria
 ```
 
+De forma alternativa se puede usar el método `keys`.
+
 **Ejemplo 2**
 ```python 
 for cada_elemento in directorio.keys():
@@ -50,6 +52,22 @@ Juan -> 300 235 87 45
 Luis -> 311 986 47 00
 Ana -> 320 700 62 15
 Maria -> 312 958 88 50
+```
+
+El **recorrido por valores**, es llevado a cabo por la instrucción for-in y el método `values`, recorre únicamente los valores del diccionario como se muestra en el ejemplo.
+
+**Ejemplo 3**
+```python 
+for cada_elemento in directorio.values():
+    print(cada_elemento)
+```
+
+*Salida*
+```python 
+300 235 87 45
+311 986 47 00
+320 700 62 15
+312 958 88 50
 ```
 
 **¿Qué dudas o preguntas tengo sobre lo que leí en la introducción?**
