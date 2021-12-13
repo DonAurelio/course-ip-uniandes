@@ -98,16 +98,16 @@ Pablo ha solicitado ayuda de un estudiante de Introducción a la Programación p
 
 ```python
 sucursales = {
-    “Cali”:[ 
+    "Cali":[ 
          { "nombre": "manzana", "precio":15, "ventas": 2 },
 
      ],
-    “Bogota”: [
+    "Bogota": [
 
 
 
     ],
-    “Medellin”: [
+    "Medellin": [
 
 
 
