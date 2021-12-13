@@ -95,9 +95,9 @@ precios = {
 1. ¿Liste los productos que Pablo tiene disponible en su base de datos de ventas? No es necesario usar código Python.
 2. ¿Qué tipo de recorrido en diccionarios nos permitirá imprimir los nombres de los productos que Pablo tiene disponible en su base de datos? ¿Por qué?.
 3. ¿Qué tipo de recorrido en diccionarios me permitiría imprimir la cantidad de unidades que Pablo ha vendido de cada producto según su base de datos?  ¿Por qué?
-4. Escriba una función que reciba como parámetro el diccionario de ventas e imprima los nombres de los productos que Pablo tiene disponible en su base de datos. Incluya en el código el llamado a la función y muestre la salida.
-5. Escriba una función que reciba como parámetro el diccionario de ventas e imprima el nombre del producto y la cantidad de unidades que Pablo ha vendido de cada producto. Incluya en el código el llamado a la función y muestre la salida.
-6.  Escriba la función “balance” que reciba como parámetros el diccionario de ventas y el diccionario de precios e imprima el valor en pesos en ventas de cada producto. Indique la salida del código. Incluya en el código el llamado a la función y muestre la salida.
+4. Escriba la función `nombres_productos` que reciba como parámetro el diccionario de ventas e imprima los nombres de los productos que Pablo tiene disponible en su base de datos. Incluya en el código el llamado a la función y muestre la salida.
+5. Escriba la función `unidades_vendidas_por_producto` que reciba como parámetro el diccionario de ventas e imprima el nombre del producto y la cantidad de unidades que Pablo ha vendido de cada producto. Incluya en el código el llamado a la función y muestre la salida.
+6.  Escriba la función `balance` que reciba como parámetros el diccionario de ventas y el diccionario de precios e imprima el valor en pesos en ventas de cada producto. Indique la salida del código. Incluya en el código el llamado a la función y muestre la salida.
 
 
 ## ENUNCIADO 2 (Sucursales) - Diccionario como Estructura de Datos Compleja
