@@ -2,7 +2,7 @@
 
 **Objetivos**
 
-1. Familiarizarse con los tipos de recorridos que pueden ser empleados en un diccionario.
+1. Familiarizarse con los tipos de recorridos que pueden ser empleados en un diccionario y entender su importancia.
 2. Reconocer la utilidad de los diccionarios en un caso de la vida real.
 3. Practicar la metodología (Divide y Vencerás) para la solución de problemas complejos. 
 
