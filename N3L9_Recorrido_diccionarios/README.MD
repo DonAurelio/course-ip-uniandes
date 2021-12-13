@@ -1,5 +1,13 @@
 # NIVEL 3. LECCIÓN 9. RECORRIDO DE DICIONARIOS
 
+**Objetivos**
+
+1. Familiarizarse con los tipos de recorridos que pueden ser empleados en un diccionario.
+2. Reconocer la utilidad de los diccionarios en un caso de la vida real.
+3. Practicar la metodología (Divide y Vencerás) para la solución de problemas complejos. 
+
+**Introducción**
+
 **¿Por qué necesitamos recorrer la información de un diccionario?** En el momento en que se requiere procesar la información que se encuentra almacenada en un diccionario se hace necesario recorrerlo.
 
 **¿Cómo podemos recorrer la información de un diccionario?** Hay dos formas de recorrer un diccionario: **recorriendo las llaves** o **recorriendo los valores**. Dependiendo de la naturaleza del problema es posible determinar cuál de las formas de recorrido usar.
